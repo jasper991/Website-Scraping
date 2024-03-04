@@ -9,5 +9,18 @@ This project consists of a Python script that scrapes mobile phone data from Fli
 - pandas library
 - requests library
 
-## Installation
-1. Clone the repository:
+
+## Usage
+1. Install the required dependencies:
+
+
+2. Run the script:
+
+
+3. The scraped data will be stored in an Excel file named `flipkart_mobiles.xlsx`.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
